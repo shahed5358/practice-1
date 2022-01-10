@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+a:hover {
+    background-color: gray;
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
